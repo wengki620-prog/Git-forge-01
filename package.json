@@ -1,0 +1,1 @@
+{"description":"Forge git yang kompatibel dengan GitHub: git smart HTTP, REST v3, GraphQL, dan MCP dalam satu proses Node tanpa dependensi.","engines":{"node":">=22.18"},"license":"MIT","name":"git-forge","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
